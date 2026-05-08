@@ -4,34 +4,25 @@
 
 <p align="center">
   <a href="https://github.com/afzal-ahmad01">
-    
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Afzal+Ahmad+👋;AI+%26+Data+Science+Student+🤖;Python+Learner+%26+Builder+🐍;From+Karachi%2C+Pakistan+🇵🇰;Consistency+is+my+Superpower+💪" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🧑‍💻 About Me
 
 ```python
-class AfzalAhmad:
-    def __init__(self):
-        self.name = "Afzal Ahmad"
-        self.location = "Karachi, Pakistan 🇵🇰"
-        self.role = "AI & Data Science Student"
-        self.learning = [
-            "Python", 
-            "Artificial Intelligence", 
-            "Machine Learning"
-        ]
-        self.goal = "Become a skilled AI Developer"
-
-    def mindset(self):
-        return "Learn. Build. Improve."
-
-me = AfzalAhmad()
-print(me.mindset())
-```
-
+afzal = {
+    "name"       : "Afzal Ahmad",
+    "location"   : "Karachi, Pakistan 🇵🇰",
+    "university" : "University Student 🎓",
+    "course"     : "AI & Data Science @ Saylani Mass IT Training",
+    "studying"   : ["Artificial Intelligence", "Data Science", "Python"],
+    "goal"       : "Become a skilled AI Developer",
+    "mindset"    : "Build every day. Learn every day.",
+    "fun_fact"   : "I turn chai ☕ into code 🐍"
+}
 ```
 
 ---
@@ -88,7 +79,9 @@ print(me.mindset())
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=afzal-ahmad01&theme=algolia"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=afzal-ahmad01&theme=tokyonight&no-frame=true&column=6&margin-w=5"/>
+</p>
 
 ---
 
