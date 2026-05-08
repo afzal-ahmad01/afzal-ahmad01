@@ -3,45 +3,40 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/afzal-ahmad01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Afzal+Ahmad+👋;AI+%26+Data+Science+Student+🤖;Python+Learner+%26+Builder+🐍;From+Karachi%2C+Pakistan+🇵🇰;Consistency+is+my+Superpower+💪" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Afzal+Ahmad;AI+%26+Data+Science+Student;Python+Learner+%26+Builder;From+Karachi%2C+Pakistan;Consistency+is+my+Superpower" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-```python
-afzal = {
-    "name"       : "Afzal Ahmad",
-    "location"   : "Karachi, Pakistan 🇵🇰",
-    "university" : "University Student 🎓",
-    "course"     : "AI & Data Science @ Saylani Mass IT Training",
-    "studying"   : ["Artificial Intelligence", "Data Science", "Python"],
-    "goal"       : "Become a skilled AI Developer",
-    "mindset"    : "Build every day. Learn every day.",
-    "fun_fact"   : "I turn chai ☕ into code 🐍"
-}
-```
+| | |
+|---|---|
+| **Name** | Afzal Ahmad |
+| **Location** | Karachi, Pakistan |
+| **University** | University Student |
+| **Course** | AI & Data Science — Saylani Mass IT Training |
+| **Studying** | Artificial Intelligence, Data Science, Python |
+| **Goal** | Become a skilled AI Developer |
+| **Mindset** | Build every day. Learn every day. |
 
 ---
 
-## 🚀 What I'm Currently Doing
+## What I'm Currently Doing
 
-- 🤖 Learning **Artificial Intelligence & Data Science**
-- 🐍 Mastering **Python Programming** through daily practice
-- 📦 Building small projects to strengthen real-world skills
-- 🎯 Focused on **Problem Solving** and **Logic Building**
-- 📚 Exploring **Machine Learning** concepts step by step
+- Learning **Artificial Intelligence & Data Science**
+- Mastering **Python Programming** through daily practice
+- Building small projects to strengthen real-world skills
+- Focused on **Problem Solving** and **Logic Building**
+- Exploring **Machine Learning** concepts step by step
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data_Science-0096C7?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -51,24 +46,24 @@ afzal = {
 
 ---
 
-## 📂 Projects
+## Projects
 
 | # | Project | Description | Tech |
 |---|---------|-------------|------|
-| 1 | 🧮 Calculator | Fully functional calculator app | Python |
-| 2 | 🤖 AI Practice Tasks | Beginner-level AI exercises | Python |
-| 3 | 🧠 Logic Building Exercises | Problem-solving mini-programs | Python |
-| 4 | 📊 Basic Python Programs | Core concepts in action | Python |
+| 1 | Calculator | Fully functional calculator app | Python |
+| 2 | AI Practice Tasks | Beginner-level AI exercises | Python |
+| 3 | Logic Building Exercises | Problem-solving mini-programs | Python |
+| 4 | Basic Python Programs | Core concepts in action | Python |
 
-> 🔨 More projects coming soon — building every day!
+> More projects coming soon — building every day!
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=afzal-ahmad01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afzal-ahmad01&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=afzal-ahmad01&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -77,29 +72,21 @@ afzal = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=afzal-ahmad01&theme=tokyonight&no-frame=true&column=6&margin-w=5"/>
-</p>
-
----
-
-## 📈 Learning Roadmap
+## Learning Roadmap
 
 ```
-✅ Python Basics           ██████████ 100%
-✅ OOP in Python           ████████░░  80%
-🔄 Data Structures         ██████░░░░  60%
-🔄 AI/ML Fundamentals      █████░░░░░  50%
-⏳ NumPy & Pandas          ████░░░░░░  40%
-⏳ Machine Learning        ███░░░░░░░  30%
-⏳ Deep Learning           ██░░░░░░░░  20%
+Python Basics           ██████████  100%
+OOP in Python           ████████░░   80%
+Data Structures         ██████░░░░   60%
+AI/ML Fundamentals      █████░░░░░   50%
+NumPy and Pandas        ████░░░░░░   40%
+Machine Learning        ███░░░░░░░   30%
+Deep Learning           ██░░░░░░░░   20%
 ```
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.instagram.com/mr_comrade313">
@@ -115,19 +102,13 @@ afzal = {
 
 ---
 
-## 💬 Quote I Live By
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
 > *"Consistency is the key to success — every line of code takes me one step closer to my dream."*
 > — **Afzal Ahmad**
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=afzal-ahmad01&icon=6&color=9&label=Profile%20Views" />
+  <img src="https://visitcount.itsvg.in/api?id=afzal-ahmad01&icon=6&color=9&label=Profile+Views" />
 </p>
 
 <p align="center">
