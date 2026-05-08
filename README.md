@@ -12,16 +12,24 @@
 
 ## 🧑‍💻 About Me
 
-```python
-afzal = {
-    "name"       : "Afzal Ahmad",
-    "location"   : "Karachi, Pakistan 🇵🇰",
-    "education"  : "Saylani Mass IT Training Program",
-    "studying"   : ["Artificial Intelligence", "Data Science", "Python"],
-    "goal"       : "Become a skilled AI Developer",
-    "mindset"    : "Build every day. Learn every day.",
-    "fun_fact"   : "I turn chai ☕ into code 🐍"
-}
+```
+class AfzalAhmad:
+
+    def _init_(self):
+        self.name = "Afzal Ahmad"
+        self.location = "Karachi, Pakistan 🇵🇰"
+        self.role = "AI & Data Science Student"
+        self.learning = [
+            "Python",
+            "Artificial Intelligence",
+            "Machine Learning"
+        ]
+        self.goal = "Become a skilled AI Developer"
+
+    def mindset(self):
+        return "Learn. Build. Improve."
+
+me = AfzalAhmad()
 ```
 
 ---
