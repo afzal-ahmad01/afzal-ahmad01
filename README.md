@@ -38,12 +38,7 @@ I am a university student from Pakistan and currently learning Artificial Intell
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afzal-ahmad01&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzal-ahmad01&layout=compact&theme=default" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=afzal-ahmad01" />
 
 ---
 
