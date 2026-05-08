@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/afzalahmad313">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Afzal+Ahmad+;AI+%26+Data+Science+Student+;Python+Learner+%26+Builder+;From+Karachi%2C+Pakistan+🇵🇰;Consistency+is+my+Superpower+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Afzal+Ahmad+👋;AI+%26+Data+Science+Student+🤖;Python+Learner+%26+Builder+🐍;From+Karachi%2C+Pakistan+🇵🇰;Consistency+is+my+Superpower+💪" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,24 +16,23 @@
 afzal = {
     "name"       : "Afzal Ahmad",
     "location"   : "Karachi, Pakistan 🇵🇰",
-    "university" : "University Student ",
-    "course"     : "AI & Data Science @ Saylani Mass IT Training",
+    "education"  : "Saylani Mass IT Training Program",
     "studying"   : ["Artificial Intelligence", "Data Science", "Python"],
     "goal"       : "Become a skilled AI Developer",
     "mindset"    : "Build every day. Learn every day.",
-    "fun_fact"   : "I turn chai into code "
+    "fun_fact"   : "I turn chai ☕ into code 🐍"
 }
 ```
 
 ---
 
-##   What I'm Currently Doing
+## 🚀 What I'm Currently Doing
 
--   Learning **Artificial Intelligence & Data Science**
--   Mastering **Python Programming** through daily practice
--   Building small projects to strengthen real-world skills
--   Focused on **Problem Solving** and **Logic Building**
--   Exploring **Machine Learning** concepts step by step
+- 🤖 Learning **Artificial Intelligence & Data Science**
+- 🐍 Mastering **Python Programming** through daily practice
+- 📦 Building small projects to strengthen real-world skills
+- 🎯 Focused on **Problem Solving** and **Logic Building**
+- 📚 Exploring **Machine Learning** concepts step by step
 
 ---
 
@@ -51,20 +50,20 @@ afzal = {
 
 ---
 
-##   Projects
+## 📂 Projects
 
 | # | Project | Description | Tech |
 |---|---------|-------------|------|
-| 1 |  Calculator | Fully functional calculator app | Python |
-| 2 |  AI Practice Tasks | Beginner-level AI exercises | Python |
-| 3 |  Logic Building Exercises | Problem-solving mini-programs | Python |
-| 4 |  Basic Python Programs | Core concepts in action | Python |
+| 1 | 🧮 Calculator | Fully functional calculator app | Python |
+| 2 | 🤖 AI Practice Tasks | Beginner-level AI exercises | Python |
+| 3 | 🧠 Logic Building Exercises | Problem-solving mini-programs | Python |
+| 4 | 📊 Basic Python Programs | Core concepts in action | Python |
 
->   More projects coming soon — building every day!
+> 🔨 More projects coming soon — building every day!
 
 ---
 
-##   GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=afzalahmad313&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -77,7 +76,7 @@ afzal = {
 
 ---
 
-##   GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=afzalahmad313&theme=tokyonight&no-frame=true&column=6&margin-w=5"/>
@@ -85,21 +84,21 @@ afzal = {
 
 ---
 
-##  Learning Roadmap
+## 📈 Learning Roadmap
 
 ```
-  Python Basics           ██████████ 100%
-  OOP in Python           ████████░░  80%
-  Data Structures         ██████░░░░  60%
-  AI/ML Fundamentals      █████░░░░░  50%
-  NumPy & Pandas          ████░░░░░░  40%
-  Machine Learning        ███░░░░░░░  30%
-  Deep Learning           ██░░░░░░░░  20%
+✅ Python Basics           ██████████ 100%
+✅ OOP in Python           ████████░░  80%
+🔄 Data Structures         ██████░░░░  60%
+🔄 AI/ML Fundamentals      █████░░░░░  50%
+⏳ NumPy & Pandas          ████░░░░░░  40%
+⏳ Machine Learning        ███░░░░░░░  30%
+⏳ Deep Learning           ██░░░░░░░░  20%
 ```
 
 ---
 
-##   Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.instagram.com/mr_comrade313">
