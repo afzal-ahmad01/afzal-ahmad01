@@ -47,10 +47,9 @@
 
 | # | Project | Description | Tech |
 |---|---------|-------------|------|
-| 1 | Calculator | Fully functional calculator app | Python |
-| 2 | AI Practice Tasks | Beginner-level AI exercises | Python |
-| 3 | Logic Building Exercises | Problem-solving mini-programs | Python |
-| 4 | Basic Python Programs | Core concepts in action | Python |
+| 1 | AI Practice Tasks | Beginner-level AI exercises | Python |
+| 2 | Logic Building Exercises | Problem-solving mini-programs | Python |
+| 3 | Basic Python Programs | Core concepts in action | Python |
 
 > More projects coming soon — building every day!
 
