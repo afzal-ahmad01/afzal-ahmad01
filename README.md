@@ -14,14 +14,13 @@
 
 ```
 class AfzalAhmad:
-
-    def _init_(self):
+    def __init__(self):
         self.name = "Afzal Ahmad"
         self.location = "Karachi, Pakistan 🇵🇰"
         self.role = "AI & Data Science Student"
         self.learning = [
-            "Python",
-            "Artificial Intelligence",
+            "Python", 
+            "Artificial Intelligence", 
             "Machine Learning"
         ]
         self.goal = "Become a skilled AI Developer"
@@ -29,7 +28,12 @@ class AfzalAhmad:
     def mindset(self):
         return "Learn. Build. Improve."
 
+# Creating the instance
 me = AfzalAhmad()
+
+# Example: Displaying your mindset
+print(f"My Mindset: {me.mindset()}")
+
 ```
 
 ---
