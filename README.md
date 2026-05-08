@@ -116,7 +116,7 @@ Deep Learning           ██░░░░░░░░   20%
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=afzal-ahmad01&icon=6&color=9&label=Profile+Views" />
+  
 </p>
 
 <p align="center">
