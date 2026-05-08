@@ -39,17 +39,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afzal-ahmad01&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" 
-       onerror="this.style.display='none'" />
+  <img src="https://github-readme-stats.vercel.app/api?username=afzal-ahmad01&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzal-ahmad01&layout=compact&theme=default&hide_border=true&cache_seconds=86400"
-       onerror="this.style.display='none'" />
-</p>
-
-<p align="center">
-  ⚡ Stats temporarily unavailable, but code is active 🚀
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzal-ahmad01&layout=compact&theme=default" />
 </p>
 ---
 
