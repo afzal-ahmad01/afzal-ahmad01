@@ -83,13 +83,13 @@
 ## Learning Roadmap
 
 ```
-Python Basics           ██████████  100%
-OOP in Python           ████████░░   80%
-Data Structures         ██████░░░░   60%
-AI/ML Fundamentals      █████░░░░░   50%
-NumPy and Pandas        ████░░░░░░   40%
-Machine Learning        ███░░░░░░░   30%
-Deep Learning           ██░░░░░░░░   20%
+Python Basics         
+OOP in Python           
+Data Structures        
+AI/ML Fundamentals      
+NumPy and Pandas        
+Machine Learning        
+Deep Learning           
 ```
 
 ---
