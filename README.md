@@ -42,8 +42,9 @@ I am a university student from Pakistan and currently learning Artificial Intell
 ---
 
 ## Connect With Me
-Instagram: https://www.instagram.com/mr_comrade313  
-YouTube: https://youtube.com/@afzal_ahmad313  
+- Instagram: https://www.instagram.com/mr_comrade313  
+- YouTube: https://youtube.com/@afzal_ahmad313  
+- Facebook: https://www.facebook.com/profile.php?id=100085382498252 
 
 ---
 
