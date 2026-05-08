@@ -10,9 +10,9 @@
 
 ---
 
-## 🧑‍💻 About Me
+# 👨‍💻 About Me
 
-```
+```python
 class AfzalAhmad:
     def __init__(self):
         self.name = "Afzal Ahmad"
@@ -28,11 +28,9 @@ class AfzalAhmad:
     def mindset(self):
         return "Learn. Build. Improve."
 
-# Creating the instance
 me = AfzalAhmad()
-
-# Example: Displaying your mindset
-print(f"My Mindset: {me.mindset()}")
+print(me.mindset())
+```
 
 ```
 
