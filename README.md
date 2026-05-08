@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/afzalahmad313">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Afzal+Ahmad+👋;AI+%26+Data+Science+Student+🤖;Python+Learner+%26+Builder+🐍;From+Karachi%2C+Pakistan+🇵🇰;Consistency+is+my+Superpower+💪" alt="Typing SVG" />
+  <a href="https://github.com/afzal-ahmad01">
+    
   </a>
 </p>
 
@@ -66,21 +66,19 @@ afzal = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afzalahmad313&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afzalahmad313&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=afzal-ahmad01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afzal-ahmad01&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalahmad313&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzal-ahmad01&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=afzalahmad313&theme=tokyonight&no-frame=true&column=6&margin-w=5"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=afzal-ahmad01&theme=algolia"/>
 
 ---
 
@@ -126,7 +124,7 @@ afzal = {
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=afzalahmad313&icon=6&color=9&label=Profile%20Views" />
+  <img src="https://visitcount.itsvg.in/api?id=afzal-ahmad01&icon=6&color=9&label=Profile%20Views" />
 </p>
 
 <p align="center">
