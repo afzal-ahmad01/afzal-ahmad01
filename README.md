@@ -47,10 +47,9 @@ I am a university student from Pakistan and currently learning Artificial Intell
 
 ---
 
-## Skills
-Python  
-AI Learning  
-Developer Active  
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python) ![AI](https://img.shields.io/badge/AI-Learning-orange?style=for-the-badge) ![Developer](https://img.shields.io/badge/Developer-Active-success?style=for-the-badge)  
 
 ---
 
