@@ -33,12 +33,6 @@ I am a university student from Pakistan and currently learning Artificial Intell
 - Basic Python Programs  
 - Logic Building Exercises  
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afzal-ahmad01" />
 
 ---
 
