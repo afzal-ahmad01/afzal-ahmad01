@@ -1,53 +1,135 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Afzal%20Ahmad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Afzal%20Ahmad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20%7C%20Python%20Developer%20%7C%20Future%20Innovator&descSize=16&descAlignY=58&descColor=a78bfa"/>
 </p>
 
-# Hi, I'm Afzal Ahmad
-
-AI Enthusiast | Python Learner | Future Developer  
-
-I am a university student from Pakistan and currently learning Artificial Intelligence & Data Science at Saylani Mass IT Training Program along with Python programming.  
-📍 Karachi, Pakistan  
-
----
-
-## About Me
-- Passionate about Artificial Intelligence  
-- Learning Python through practice  
-- Building small projects daily  
-- Focused on real-world development skills  
+<p align="center">
+  <a href="https://github.com/afzalahmad313">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Afzal+Ahmad+;AI+%26+Data+Science+Student+;Python+Learner+%26+Builder+;From+Karachi%2C+Pakistan+🇵🇰;Consistency+is+my+Superpower+" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## Current Learning
-- Python Programming  
-- AI Concepts  
-- Problem Solving  
-- Project Development  
+## 🧑‍💻 About Me
+
+```python
+afzal = {
+    "name"       : "Afzal Ahmad",
+    "location"   : "Karachi, Pakistan 🇵🇰",
+    "university" : "University Student ",
+    "course"     : "AI & Data Science @ Saylani Mass IT Training",
+    "studying"   : ["Artificial Intelligence", "Data Science", "Python"],
+    "goal"       : "Become a skilled AI Developer",
+    "mindset"    : "Build every day. Learn every day.",
+    "fun_fact"   : "I turn chai into code "
+}
+```
 
 ---
 
-## Projects
-- AI Beginner Practice Tasks  
-- Calculator in Python  
-- Basic Python Programs  
-- Logic Building Exercises  
+##   What I'm Currently Doing
 
-
----
-
-## 🛠️ Skills 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python) ![AI](https://img.shields.io/badge/AI-Learning-orange?style=for-the-badge) ![Developer](https://img.shields.io/badge/Developer-Active-success?style=for-the-badge)  
+-   Learning **Artificial Intelligence & Data Science**
+-   Mastering **Python Programming** through daily practice
+-   Building small projects to strengthen real-world skills
+-   Focused on **Problem Solving** and **Logic Building**
+-   Exploring **Machine Learning** concepts step by step
 
 ---
 
-## Connect With Me
-- Instagram: https://www.instagram.com/mr_comrade313  
-- YouTube: https://youtube.com/@afzal_ahmad313  
-- Facebook: https://www.facebook.com/profile.php?id=100085382498252 
+## 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Science-0096C7?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
 ---
 
-> "Consistency is the key to success."
+##   Projects
 
-Thanks for visiting my profile!
+| # | Project | Description | Tech |
+|---|---------|-------------|------|
+| 1 |  Calculator | Fully functional calculator app | Python |
+| 2 |  AI Practice Tasks | Beginner-level AI exercises | Python |
+| 3 |  Logic Building Exercises | Problem-solving mini-programs | Python |
+| 4 |  Basic Python Programs | Core concepts in action | Python |
+
+>   More projects coming soon — building every day!
+
+---
+
+##   GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afzalahmad313&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afzalahmad313&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalahmad313&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
+
+---
+
+##   GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=afzalahmad313&theme=tokyonight&no-frame=true&column=6&margin-w=5"/>
+</p>
+
+---
+
+##  Learning Roadmap
+
+```
+  Python Basics           ██████████ 100%
+  OOP in Python           ████████░░  80%
+  Data Structures         ██████░░░░  60%
+  AI/ML Fundamentals      █████░░░░░  50%
+  NumPy & Pandas          ████░░░░░░  40%
+  Machine Learning        ███░░░░░░░  30%
+  Deep Learning           ██░░░░░░░░  20%
+```
+
+---
+
+##   Connect With Me
+
+<p align="center">
+  <a href="https://www.instagram.com/mr_comrade313">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@afzal_ahmad313">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100085382498252">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💬 Quote I Live By
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+> *"Consistency is the key to success — every line of code takes me one step closer to my dream."*
+> — **Afzal Ahmad**
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=afzalahmad313&icon=6&color=9&label=Profile%20Views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</p>
